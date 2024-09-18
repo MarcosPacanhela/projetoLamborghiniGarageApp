@@ -1,0 +1,1 @@
+Este é um projeto desenvolvido com o tema de compra de carros da marca Lamborghini. Além de um layout moderno, as informações são todas dinâmicas, pois vêm de uma API. Na parte técnica, destaca-se o uso do Axios para as chamadas da API e a utilização de componentes atômicos.
